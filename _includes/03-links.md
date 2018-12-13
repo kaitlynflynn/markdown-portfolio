@@ -1,2 +1,2 @@
-[GitHub](https://github.com/kaitlynflynn)
-[Portfolio](https://kaitlynflynn.com/)
+* [GitHub](https://github.com/kaitlynflynn)<br>
+* [Website Portfolio](https://kaitlynflynn.com/)
